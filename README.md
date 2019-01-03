@@ -1,6 +1,7 @@
-# paper-toggle
+# PaperToggleButton
 
 Vaadin 10 Java integration of https://github.com/PolymerElements/paper-toggle-button
+In Vaadin Directory: https://vaadin.com/directory/component/paper-toggle-button
 
 ## Development instructions
 
